@@ -1,1 +1,0 @@
-# Notes taken on the pre-readings material recommended by the organizer of the Debate

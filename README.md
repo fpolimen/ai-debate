@@ -12,8 +12,8 @@ Collect feedbacks and thoughts on Artificial Intelligence starting from the deba
 
 This is a work in progress aimed to include:
 
-* Notes taken on the research papers recommended by the organizer of the Debate as [pre-readings material](http://www.montreal.ai/aidebate.pdf). Notes are collected in the repository under [notes on pre-reading](pre-readings/notes.md)
-* [Report on the Debate](debate/report.md)
+* Notes taken on the research papers recommended by the organizer of the Debate as [pre-readings material](http://www.montreal.ai/aidebate.pdf). Notes are collected in the repository under [notes on pre-readings](pre-readings/pre-readings-notes.md)
+* [Report on the Debate](debate/debate-report.md)
 * Further ideas on the field of AI inspired by the discussion and supported by public research: [AIdeas](aideas/aideas.md)
 
 ## License
